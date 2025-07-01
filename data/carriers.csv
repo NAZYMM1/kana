@@ -1,0 +1,16 @@
+carrier_id,name,avg_rating,fleet_size,reliability_score
+1,TransLog Express,4.6,116,0.92
+2,RussiaCargo,4.1,30,0.74
+3,LogiMaster,4.4,140,0.71
+4,DeliveryPro,5.0,11,0.9
+5,CargoFast,4.2,24,0.83
+6,TransService,3.9,60,0.81
+7,ExpressWay,4.2,60,0.89
+8,CargoLink,4.5,82,0.72
+9,LogiTrans,3.7,62,0.76
+10,QuickShip,5.0,101,0.82
+11,MegaCargo,4.2,44,0.95
+12,SpeedyTrans,3.4,59,0.89
+13,ReliableCargo,4.4,115,0.86
+14,FastTrack,2.6,53,0.96
+15,CargoExpert,4.4,57,0.79
